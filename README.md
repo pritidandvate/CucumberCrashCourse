@@ -1,2 +1,2 @@
 # CucumberCrashCourse
-This us cucumber crash course
+This is cucumber crash course
